@@ -14,7 +14,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 	//変数
 
-
+	int aiaiaiiaia = 0;
 
 
 	// ウィンドウの×ボタンが押されるまでループ
